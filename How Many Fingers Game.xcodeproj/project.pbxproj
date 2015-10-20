@@ -156,6 +156,7 @@
 		ADDB81CD1B1939DF00499997 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = LiquidGroup;
 				TargetAttributes = {
@@ -409,6 +410,7 @@
 				ADDB81F61B1939DF00499997 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ADDB81F71B1939DF00499997 /* Build configuration list for PBXNativeTarget "How Many Fingers GameTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +419,7 @@
 				ADDB81F91B1939DF00499997 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
